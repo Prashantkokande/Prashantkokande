@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Data Scientist</h1>
 <h3 align="center">Data Scientist | Crafting Solutions through Data Exploration and Model Building</h3>
+<img align="right" alt='Coder GIF' height=250 width=300 src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkokande&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkokande" /> </p>
 
 - 🔭 I’m currently working on [ML-End2End-Project-of-Diamond-Price-Prediction](https://github.com/Prashantkokande/ML-End2End-Project-of-Diamond-Price-Prediction)
+- - 🔭 Data Science Enthusiasist ...
+- 🌱 Love to Work on ML,DL,NLP ...
+- :man_scientist: Data scientist working professional.
+- 💬 Ask me about Everything You want ...
+- ⚡ Fun fact: Dancer,Painter,Badminton Player...
 
-- 🌱 I’m currently learning **Deep Learning and Devops**
-
-- 💬 Ask me about **Data Analyst, EDA, Visualization, Model Building**
-
-- 📫 How to reach me **prashant.kokande99@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
